@@ -10,8 +10,6 @@ Algumas ferramentas que iremos  utilizar para tornar nosso aprendizado melhor s√
 <img width="400" height="122" alt="pfsense" src="https://github.com/user-attachments/assets/70496762-fe77-49a0-8a96-1cfc2d2bcfc6" />
 
 
-
-
 ![nmap](https://github.com/user-attachments/assets/cd7d814b-01a8-4572-bcef-30ffeb951f72)
 
 
