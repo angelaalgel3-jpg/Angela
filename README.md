@@ -14,3 +14,7 @@ Algumas ferramentas que iremos  utilizar para tornar nosso aprendizado melhor s√
 
 ![nmap](https://github.com/user-attachments/assets/cd7d814b-01a8-4572-bcef-30ffeb951f72)
 
+
+<img width="291" height="173" alt="image" src="https://github.com/user-attachments/assets/e306fb5a-0696-4035-ad22-36f4a6840c42" />
+
+
